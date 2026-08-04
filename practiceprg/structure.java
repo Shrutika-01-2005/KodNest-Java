@@ -1,5 +1,5 @@
 
-class days {
+class structure {
 
     public static void main(String[] args) {
         System.out.println("Monday");
