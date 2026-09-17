@@ -1,5 +1,5 @@
 
-public class Demo {
+class Demo {
 
     static int count = 0;
 
@@ -10,6 +10,7 @@ public class Demo {
 
 public class prg6 {
 
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         Demo d1 = new Demo();
         Demo d2 = new Demo();
